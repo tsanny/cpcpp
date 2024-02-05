@@ -10,7 +10,8 @@
 #include <utility>
 using namespace std;
 
-#define ll long long
+#define ll  long long
+#define llu long long unsigned
 
 const int INF = 1e9;
 
