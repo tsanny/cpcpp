@@ -1,7 +1,8 @@
-compile = c
-build = b
-run = r
-
+```
+compile the solution = c
+build the solution = b
+run the solution = r
+```
 
 To run without the `./` prefix, add this to `.bashrc`:
 ```export PATH="/directory/to/repo:$PATH"```
