@@ -19,8 +19,8 @@ const int INF = 1e9;
 void solve() {}
 
 int main() {
-  /* int t; */
-  /*    cin >> t; */
-  /*    while (t--) */
-  solve();
+  int tc = 1;
+  /* cin >> tc; */
+  while (tc--)
+    solve();
 }
