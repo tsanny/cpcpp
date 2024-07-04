@@ -1,7 +1,7 @@
 ### creating a new solution directory
 
 ```
-sh solve.sh DIR_NAME
+sh solve DIR_NAME
 cd DIR_NAME/
 ```
 
